@@ -78,7 +78,7 @@ body::before{
   z-index: -1;
   inset: 0;
   filter: blur(5px) brightness(1);
-  background-image: url("img/hahabg.jpeg");
+  background-image: url("../img/hahabg.jpeg");
   background-position: left top;
   background-attachment: scroll;
 }
